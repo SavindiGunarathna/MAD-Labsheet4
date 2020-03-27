@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android - Notification</string>
+    <string name="btn1">SIGN UP</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_re_password">Re-type Password</string>
+    <string name="btn2">Register</string>
+    <string name="btn3">CANCEL</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">This is redicect to registraton</string>
+</resources>
